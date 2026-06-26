@@ -1,4 +1,4 @@
-# OIBSIP Data Analytics Internship – Task [2]
+# OIBSIP Data Analytics Internship – Task 2
 
 ## Task: Unveiling the Android App Market – Analyzing Google Play Store Data
 
